@@ -8,7 +8,7 @@
 * AWS account
 
 ### There are two codes in this repository.
-1. The **Rpi_smart_doorbell** runs on the the Raspberry Pi
+1. The **Rpi_smart_doorbell** runs on the the Raspberry Pi.
 2. The **AWS_Lambda_smart_doorbell** runs as a *Lambda* function on AWS.
 
 ### To see a demonstration of this Smart Doorbell please watch this youtube video
@@ -49,9 +49,9 @@ def capture_frames():
 def video_making():
 def convert_to_bytearray():
 ~~~~
-* **capture_frames** captures the images
-* **video_making** stiches the image and makes a video from it
-* **convert_to_bytearray** converts the image into bytearray which is then sent to AWS
+* **capture_frames** captures the images.
+* **video_making** stiches the image and makes a video from it.
+* **convert_to_bytearray** converts the image into bytearray which is then sent to AWS.
 
 ### Calling AWS Api's
 ~~~~python
@@ -69,4 +69,4 @@ def NoteworthyVehicle_Detection(labels_on_watch_list_set, text_list_set):
 ~~~~python
 def Upload_to_aws(l):
 ~~~~
-* **Upload_to_aws** function aggregates the results, stores them into the python dictionary and sends it to AWS using **AWS Kinesis**
+* **Upload_to_aws** function aggregates the results, stores them into the python dictionary and sends it to AWS using **AWS Kinesis**.
