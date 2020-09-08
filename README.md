@@ -8,8 +8,8 @@
 * AWS account
 
 ### There are two codes in this repository.
-1. The First code runs on the Raspberry Pi
-2. the second one runs on AWS.
+1. The **Rpi_smart_doorbell** runs on the the Raspberry Pi
+2. The **AWS_Lambda_smart_doorbell** runs as a *Lambda* function on AWS.
 
 ### To see a demonstration of this Smart Doorbell please watch this youtube video
 
