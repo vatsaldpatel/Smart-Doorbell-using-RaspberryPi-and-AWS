@@ -1,6 +1,6 @@
 # Smart-Doorbell-using-RaspberryPi-and-AWS
 
-### This code is a part of my Demo Paper which is accepted at ACM IoT 2020. I'll put a link to the paper once it is published.
+### This code is a part of my Demo Paper which is accepted at ACM IoT 2020. [Demonstration of a Cloud-based Software Framework for Video Analytics Application using Low-Cost IoT Devices](https://arxiv.org/abs/2010.07680).
 
 ### Pre-Requisite
 * Raspberry Pi 3 B+
